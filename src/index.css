@@ -263,6 +263,9 @@
     --tw-text-opacity: 1;
     color: rgb(255 255 255 / var(--tw-text-opacity));
 }
+.black{
+    color: #000;
+}
 .pt-6 {
     padding-top: 1.5rem/* 24px */;
 }
