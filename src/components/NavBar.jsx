@@ -88,13 +88,13 @@ const NavBar = () =>{
             <div className='z-10 lg-screen hidden-unsure fixed flex flex-col top-[35%] social-icons'>
                 <ul>
                     <li className='list flex justify-between items-center hover:ml-[-10px] duration-300 bg-blue-600'>
-                        <a href="/" className='flex justify-between items-center w-full  text-gray-300' >Linkedin <FaLinkedin size={30}/> </a>
+                        <a href="https://www.linkedin.com/in/victor-egan-6b5164244" className='flex justify-between items-center w-full  text-gray-300' >Linkedin <FaLinkedin size={30}/> </a>
                     </li>
                     <li className='list flex justify-between items-center hover:ml-[-10px] duration-300 github'>
-                        <a href="/" className='flex justify-between items-center w-full  text-gray-300' >GitHub <FaGithub size={30}/> </a>
+                        <a href="https://github.com/V1ctorEgan" className='flex justify-between items-center w-full  text-gray-300' >GitHub <FaGithub size={30}/> </a>
                     </li>  
                     <li className='list flex justify-between items-center hover:ml-[-10px] duration-300 email'>
-                        <a href="/" className='flex justify-between items-center w-full  text-gray-300' >Email <HiOutlineMail size={30}/> </a>
+                        <a href="https://victorifeanyi2004@gmail.com" className='flex justify-between items-center w-full  text-gray-300' >Email <HiOutlineMail size={30}/> </a>
                     </li>
                     <li className='list flex justify-between items-center hover:ml-[-10px] resume duration-300 bg-[#565f69]'>
                         <a href="/" className='flex justify-between items-center w-full   text-gray-300' >Resume <BsFillPersonLinesFill size={30}/> </a>
@@ -103,6 +103,7 @@ const NavBar = () =>{
             </div>
 
         </div>
+        // https://www.facebook.com/p/Egan-Victor-100090669844087/?wtsid=rdr_0BEMJiEcYqmGrGNx0
 
  
         

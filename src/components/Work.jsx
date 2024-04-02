@@ -23,8 +23,8 @@ const Work = () => {
 React JS Application
               </span>
               <div className='pt-6 text-center'>
-                <a href="/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Demo</button></a>
-                <a href="/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Code</button></a>
+                <a href="https://gallery-with-react-pi.vercel.app/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Demo</button></a>
+                <a href="https://github.com/V1ctorEgan/Gallery-with-react.git"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Code</button></a>
               </div>
             </div>
           </div>
@@ -38,7 +38,7 @@ React JS Application
               </span>
               <div className='pt-6 text-center'>
                 <a href="/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Demo</button></a>
-                <a href="/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Code</button></a>
+                <a href="https://github.com/V1ctorEgan/my-blog.git"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Code</button></a>
               </div>
             </div>
           </div>
