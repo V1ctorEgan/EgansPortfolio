@@ -369,6 +369,10 @@
 .rounded-lg {
     border-radius: 0.5rem/* 8px */;
 }
+.text-black {
+    --tw-text-opacity: 1;
+    color: rgb(0 0 0 / var(--tw-text-opacity));
+}
 .content-div{
     background-image: url('assets/gallery-s.png');
     background-repeat: no-repeat;

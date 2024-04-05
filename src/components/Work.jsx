@@ -1,7 +1,8 @@
 import React from 'react'
 import workImg from '../assets/logo.png'
 import gallery from '../assets/gallery-s.png'
-import real from '../assets/to do pic.png'
+import real from '../assets/todoImage.png'
+import Keeper from '../assets/Keep Your Note.png'
 
 // import realEstate from '../assets/realEstate'
 
@@ -28,6 +29,20 @@ React JS Application
               <div className='pt-6 text-center'>
                 <a href="https://gallery-with-react-pi.vercel.app/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Demo</button></a>
                 <a href="https://github.com/V1ctorEgan/Gallery-with-react.git"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Code</button></a>
+              </div>
+            </div>
+          </div>
+          
+                                         {/* CARD CONTAINER */}       
+                                         <div style={{backgroundImage: `url(${ real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            {/* hover effects */}
+            <div className='opacity-0 group-hover-opacity-100'>
+              <span className='text-2xl font-bold text-black'>
+React Js Application 
+              </span>
+              <div className='pt-6 text-center'>
+                <a href="https://my-todo-dwt9tcssl-ete1.vercel.app/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Demo</button></a>
+                <a href="https://github.com/V1ctorEgan/My-todo.git"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Code</button></a>
               </div>
             </div>
           </div>
@@ -60,11 +75,11 @@ Web Application
             </div>
           </div>
                                {/* CARD CONTAINER */}       
-                               <div style={{backgroundImage: `url(${real})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                               <div style={{backgroundImage: `url(${ Keeper})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* hover effects */}
             <div className='opacity-0 group-hover-opacity-100'>
-              <span className='text-2xl font-bold text-white'>
-React Js Application d
+              <span className='text-2xl font-bold text-black'>
+React Js Application 
               </span>
               <div className='pt-6 text-center'>
                 <a href="https://my-keeper-version-fcmd.vercel.app/"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Demo</button></a>
