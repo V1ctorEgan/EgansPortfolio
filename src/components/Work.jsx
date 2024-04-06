@@ -49,9 +49,9 @@ React Js Application
           </div>
 
            {/* CARD CONTAINER */}       
-          <div style={{backgroundImage: `url(${workImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          {/* <div style={{backgroundImage: `url(${workImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
             {/* hover effects */}
-            <div className='opacity-0 group-hover-opacity-100'>
+            {/* <div className='opacity-0 group-hover-opacity-100'>
               <span className='text-2xl font-bold text-white'>
 Flask Application
               </span>
@@ -61,11 +61,11 @@ Flask Application
               </div>
             </div>
           </div>
-          
+           */}
                      {/* CARD CONTAINER */}       
-                     <div style={{backgroundImage: `url(${workImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                     {/* <div style={{backgroundImage: `url(${workImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'> */}
             {/* hover effects */}
-            <div className='opacity-0 group-hover-opacity-100'>
+            {/* <div className='opacity-0 group-hover-opacity-100'>
               <span className='text-2xl font-bold text-white'>
 Web Application
               </span>
@@ -74,7 +74,7 @@ Web Application
                 <a href="https://github.com/V1ctorEgan/second-portfolio.git"> <button className='text-center rounded-lg px-4 py-3 bg-white m-2 font-bold text-gray-700 text-lg'>Code</button></a>
               </div>
             </div>
-          </div>
+          </div> */}
                                {/* CARD CONTAINER */}       
                                <div style={{backgroundImage: `url(${ Keeper})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/* hover effects */}
