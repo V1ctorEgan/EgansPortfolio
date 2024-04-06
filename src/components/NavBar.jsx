@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 // import  {FaBar, FaTimes} from 'react-icons/fa'
-import Logo from '../assets/logo1.png'
+import Logo from '../assets/logs.png'
 import Hamburger from '../assets/hamburger icon-p.png'
 import Cancel from '../assets/cancel.png'
 import Linkedin from '../assets/linkedin.png'

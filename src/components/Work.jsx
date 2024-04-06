@@ -2,7 +2,7 @@ import React from 'react'
 import workImg from '../assets/logo.png'
 import gallery from '../assets/gallery-s.png'
 import real from '../assets/todoImage.png'
-import Keeper from '../assets/Keep Your Note.png'
+import Keeper from '../assets/Keep.png'
 
 // import realEstate from '../assets/realEstate'
 
@@ -24,6 +24,7 @@ const Work = () => {
             {/* hover effects */}
             <div className='opacity-0 group-hover-opacity-100'>
               <span className='text-2xl font-bold text-white'>
+
 React JS Application
               </span>
               <div className='pt-6 text-center'>
