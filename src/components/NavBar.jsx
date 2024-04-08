@@ -97,7 +97,7 @@ const NavBar = () =>{
                         <a href="https://victorifeanyi2004@gmail.com" className='flex justify-between items-center w-full  text-gray-300' >Email <HiOutlineMail size={30}/> </a>
                     </li>
                     <li className='list flex justify-between items-center hover:ml-[-10px] resume duration-300 bg-[#565f69]'>
-                        <a href="/" className='flex justify-between items-center w-full   text-gray-300' >Resume <BsFillPersonLinesFill size={30}/> </a>
+                        <a href="https://eu.docs.wps.com/module/common/loadPlatform/?sa=com.whatsapp&sid=sIKHulcPnAdjJzrAG&v=v2" className='flex justify-between items-center w-full   text-gray-300' >Resume <BsFillPersonLinesFill size={30}/> </a>
                     </li>
                 </ul>
             </div>
